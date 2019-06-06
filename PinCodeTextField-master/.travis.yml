@@ -1,0 +1,5 @@
+language: swift
+xcode_project: PinCodeTextField.xcodeproj
+xcode_scheme: PinCodeTextField
+xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone SE
+osx_image: xcode10.2
